@@ -1,6 +1,6 @@
 /*
    Name       : minahil yasir 
- * Reg No     : Your Registration Number
+ * Reg No     : l1f25bscs0612
  * Assignment : 02 - File Handling
  * Question   : Q3 - Scholarship List
  */
